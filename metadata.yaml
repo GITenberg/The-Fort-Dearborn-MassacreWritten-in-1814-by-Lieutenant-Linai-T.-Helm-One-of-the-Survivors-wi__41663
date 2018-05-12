@@ -1,0 +1,35 @@
+_repo: The-Fort-Dearborn-MassacreWritten-in-1814-by-Lieutenant-Linai-T.-Helm-One-of-the-Survivors-wi__41663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41663-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Helm, Linai T. (Linai Taliaferro)
+    alias: Helm, Linai Taliaferro
+    deathdate: 1838
+    gutenberg_agent_id: '41286'
+    url: http://www.gutenberg.org/2009/agents/41286
+  editor:
+    agent_name: Gordon, Nelly Kinzie
+    gutenberg_agent_id: '41287'
+    url: http://www.gutenberg.org/2009/agents/41287
+description: ''
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41663'
+  lccn: '12013045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Massacre survivors -- Illinois -- Chicago'
+- !lcsh 'Fort Dearborn Massacre, Chicago, Ill., 1812'
+title: 'The Fort Dearborn Massacre
+
+  Written in 1814 by Lieutenant Linai T. Helm, One of the Survivors, with Letters
+  and Narratives of Contemporary Interest'
+url: http://www.gutenberg.org/ebooks/41663
