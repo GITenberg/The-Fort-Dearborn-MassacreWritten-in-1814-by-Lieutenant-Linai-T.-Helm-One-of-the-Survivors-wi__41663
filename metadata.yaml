@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '41287'
     url: http://www.gutenberg.org/2009/agents/41287
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41663#The-Fort-Dearborn-MassacreWritten-in-1814-by-Lieutenant-Linai-T.-Helm-One-of-the-Survivors-wi_
 gutenberg_issued: '2012-12-19'
 gutenberg_type: Text
 identifiers:
